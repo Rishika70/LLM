@@ -33,7 +33,7 @@ Welcome to the repository housing various Jupyter Notebook projects developed fo
 - **Description:** A specific implementation or variation of the Retrieval-Augmented Generation technique, possibly tailored for a project named Vectara.
 
 ## 8. Vision_Transformers.ipynb
-- **created** 3 months ago
+- **Created** 3 months ago
 - **Description:** A vision-based model to predict images.
 
 
